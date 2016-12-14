@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "colorLabel": "Red - Friend of friend\u003cbr\u003eOrange - Acquaintance\u003cbr\u003eYellow - Friend\u003cbr\u003eGreen - Relationship\u003cbr\u003eBlue - Good Friend\u003cbr\u003ePurple - Jeb Alexander",
+    "nodeLabel": "Every node is a same-sex attracted person mentioned in Jeb Alexander\u0027s diary."
   },
   "features": {
     "search": true,
