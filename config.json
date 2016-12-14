@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": ""
+  },
+  "text": {
+    "more": "While Jeb\u0027s diary mentions many more people than are included here, only those that have some sort of same-sex attraction are included in the network.  Whether these people were gayy or bisexual is unknown and it could, in fact, be considered anachronistic to apply modern understandings of sexuality to people living in the early 20th century, who often understood same-sex attraction as a temptation rather than as an inborn trait as we do now.  Randall Hare, for example, eventually married a woman, but whether he did this because he was bisexual or because of social pressures that force gay men to enter heterosexual relationships is unknown.",
+    "intro": "Network of gay men and lesbians as described in Jeb and Dash: A Diary of Gay Life, 1918-1945",
+    "title": "Jeb and Dash"
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "color",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
